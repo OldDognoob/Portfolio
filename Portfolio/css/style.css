@@ -116,8 +116,8 @@ img{
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #fff;
-  box-shadow: 0 1px 4px rgba(146,161,176,.15);
+  background-color: rgb(228, 222, 222);
+  box-shadow: 0 1px 4px rgba(166, 182, 197, 0.15);
 }
 
 
