@@ -232,8 +232,26 @@ img{
   justify-self: center;
 }
 .about__img img{
-  width: 200px;
+  width: 180px;
   border-radius: .5rem;
+}
+
+.cta {
+	display: inline-block;
+	padding: 10px 10px;
+	color: rgb(46, 39, 39);
+	background-color: transparent;
+	border: 2px solid rgb(70, 68, 238);
+	font-size: 1rem;
+	text-transform: uppercase;
+	letter-spacing: .1rem;
+	margin-top: 30px;
+	transition: .3s ease;
+	transition-property: background-color, color;
+}
+.cta:hover {
+	color: rgb(31, 33, 37);
+	background-color: rgb(93, 103, 240);
 }
 
 .skills__container{
@@ -275,17 +293,23 @@ img{
   border-radius: .5rem;
   z-index: var(--z-back);
 }
-.skills__html{
-  width: 95%;
+.skills__react{
+  width: 80%;
+}
+.skills__redux{
+  width: 70%;
+}
+.skills__less{
+  width: 50%;
 }
 .skills__css{
-  width: 85%;
+  width: 70%;
+}
+.skills__html{
+  width: 50%;
 }
 .skills__js{
-  width: 65%;
-}
-.skills__ux{
-  width: 85%;
+  width: 60%;
 }
 .skills__img{
   border-radius: .5rem;
