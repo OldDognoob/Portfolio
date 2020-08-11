@@ -294,22 +294,22 @@ img{
   z-index: var(--z-back);
 }
 .skills__react{
-  width: 90%;
+  width: 100%;
 }
 .skills__redux{
-  width: 90%;
+  width: 100%;
 }
 .skills__less{
-  width: 90%;
+  width: 100%;
 }
 .skills__css{
-  width: 90%;
+  width: 100%;
 }
 .skills__html{
-  width: 90%;
+  width: 100%;
 }
 .skills__js{
-  width: 90%;
+  width: 100%;
 }
 .skills__img{
   border-radius: .5rem;
