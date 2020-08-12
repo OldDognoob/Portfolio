@@ -203,10 +203,10 @@ img{
 }
 .home__img{
   position: absolute;
-  margin: 0 70px;
+  margin: 0 50px;
   right: 0;
   bottom: 0;
-  width: 295px;
+  width: 200px;
   border-radius: 15px/50px;
 }
 
