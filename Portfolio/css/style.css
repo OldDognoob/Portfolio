@@ -203,7 +203,7 @@ img{
 }
 .home__img{
   position: absolute;
-  margin: 0 50px;
+  /* margin: 0 50px; */
   right: 0;
   bottom: 0;
   padding: 20px;
