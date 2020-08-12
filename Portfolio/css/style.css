@@ -203,10 +203,9 @@ img{
 }
 .home__img{
   position: absolute;
-  margin: 0 80px;
+  margin: 0 90px;
   right: 0;
   bottom: 0;
-  padding: 20px;
   width: 295px;
   border-radius: 15px/50px;
 }
